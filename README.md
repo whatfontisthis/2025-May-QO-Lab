@@ -18,6 +18,8 @@ AI-native 워크샵 5월 코호트 학습 자료입니다.
 ### Week 2 — Tools: CLAUDE.md · 서브에이전트 · 스킬 · MCP
 - [수업 덱](https://whatfontisthis.github.io/2026-May-QO-Lab/Week2-Skilling/slides-week2.html)
 - [[VOD]2주차 예습 영상.mp4](https://vimeo.com/1192167889) <br> [<img src="assets/thumbnails/week2-skilling.jpg" width="280" alt="2주차 예습 영상" />](https://vimeo.com/1192167889)
+- [[VOD]2주차 Recap Part 1](https://youtu.be/-bjFygREGl8)
+- [[VOD]2주차 Recap Part 2](https://youtu.be/U4rRBwmJ_T0)
 
 &nbsp;
 
