@@ -20,6 +20,8 @@ AI-native 워크샵 5월 코호트 학습 자료입니다.
 - [[VOD]2주차 예습 영상.mp4](https://vimeo.com/1192167889) <br> [<img src="assets/thumbnails/week2-skilling.jpg" width="280" alt="2주차 예습 영상" />](https://vimeo.com/1192167889)
 - [[VOD]2주차 Recap Part 1](https://youtu.be/-bjFygREGl8)
 - [[VOD]2주차 Recap Part 2](https://youtu.be/U4rRBwmJ_T0)
+- [과제 안내서](https://whatfontisthis.github.io/2026-May-QO-Lab/Week2-Skilling/Week2-Assignment)
+- [[VOD]Google Workspace CLI 설정 가이드](https://youtu.be/7aBxm5KLL_s)
 
 &nbsp;
 
